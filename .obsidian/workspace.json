@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3256906d808f10f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/安全命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-03-05.md",
+                "file": "Linux/安全命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-03-05.md",
+                "file": "Linux/安全命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-03-05.md"
+                "file": "Linux/安全命令.md"
               }
             }
           },
@@ -162,12 +175,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "309b9f7b6dde78fe",
+  "active": "3256906d808f10f2",
   "lastOpenFiles": [
+    "Diary/2023-03-05.md",
+    "Linux/安全命令.md",
     "Diary/2023-03-04.md",
     "Diary/2023-03-02.md",
     "Diary/2023-03-01.md",
-    "Diary/2023-03-05.md",
     "Windows/常见的端口以及渗透方法.txt",
     "常见的端口以及渗透方法.txt",
     "2023-03-04.md",
