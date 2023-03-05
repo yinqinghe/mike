@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3256906d808f10f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/安全命令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/安全命令.md",
+                "file": "Diary/2023-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/安全命令.md",
+                "file": "Diary/2023-03-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/安全命令.md"
+                "file": "Diary/2023-03-05.md"
               }
             }
           },
@@ -175,10 +162,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3256906d808f10f2",
+  "active": "65605478de227b39",
   "lastOpenFiles": [
-    "Diary/2023-03-05.md",
     "Linux/安全命令.md",
+    "Diary/2023-03-05.md",
     "Diary/2023-03-04.md",
     "Diary/2023-03-02.md",
     "Diary/2023-03-01.md",
